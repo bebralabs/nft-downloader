@@ -1,6 +1,6 @@
 # NFT Downloader
 
-[NFT Downloader](https://scripts.bebralabs.com/nft-downloader/) helps download JSON metadata files and their associated images from any EVM-network NFT collection, especially from OpenSea. The script operates seamlessly with both standard web URLs and IPFS links, and can download any NFT collection with few clicks.
+[NFT Downloader](https://scripts.bebralabs.com/nft-downloader/) helps download JSON metadata files and their associated images from any EVM-network NFT collection, especially from OpenSea. The script operates seamlessly with both standard web URLs and IPFS links, and can download any NFT collection with few clicks
 
 ## How to Use:
 1. [Download](https://scripts.bebralabs.com/nft-downloader/) & unzip script
